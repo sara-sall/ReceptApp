@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">receptApp</string>
+    <string name="recepieButton">Recept</string>
+    <string name="searchMeny">Sök</string>
+    <string name="favoriteMeny">Favoriter</string>
+    <string name="addMeny">Lägg till</string>
+    <string name="profileMeny">Profil</string>
+    <string name="header">Header</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
