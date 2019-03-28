@@ -8,7 +8,6 @@ import android.support.v7.widget.RecyclerView;
 import java.util.ArrayList;
 
 public class RecepieListActivity extends AppCompatActivity {
-//Hejsan
     private RecyclerView recyclerView;
     private RecyclerView.LayoutManager layoutManager;
     private RecepieListAdapter adapter;
